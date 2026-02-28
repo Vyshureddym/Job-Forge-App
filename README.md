@@ -28,12 +28,18 @@ Creating AI-driven cover letters
  How This Will Works:
  
 1️ User logs in
+
 2️ Enters job description
+
 3️ Provides personal and skill details
+
 4️ Backend processes request
+
 5️  LLM generates:
+
 Optimized resume points
 Customized cover letter
+
 6️  Response sent back to frontend
 
 System Architecture:
