@@ -1,4 +1,5 @@
 JobForge – AI-Powered Resume & Cover Letter Generator
+
 📌 Project Overview
 JobForge is a Generative AI-based web application that helps job seekers automatically generate optimized resumes, ATS-friendly content, and personalized cover letters based on job descriptions. The system uses LLM integration to analyze job requirements and produce tailored outputs to improve hiring chances.
 🎯 Problem Statement
